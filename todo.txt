@@ -1,0 +1,3 @@
+HW: time and name ids on messages (build a container) 
+HW: new button needs to create a new chat page - create a new chat div and append it to chats page
+deal with hyperlinks
